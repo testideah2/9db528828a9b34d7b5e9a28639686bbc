@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "209978"
+        id          = "com.flusnlb.app"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
     <name>ТЕСТ. Jelqing</name>
 
     <description>
-        You want to get in touch with interesting new people 
+        You want to get in touch with interesting new people
     </description>
 
     <author>Tadapp</author>
@@ -28,7 +28,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#DD90E1" />
+    <preference name="SplashScreenSpinnerColor" value="#007BFF" />
 
 
     <platform name="android">
